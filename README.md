@@ -217,7 +217,7 @@ p.note { display: none; }
 <h2><span class="yellow">携帯屋さんでSimの調整</span></h2>
 <a href="20251018_017.JPG" target="_blank"><img src="20251018_017.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">横のPC屋さんでノートPCチェック</span></h2>
+<h2><span class="yellow">横のPC屋さんでノートPCチェック<br>ゲーミングノートのフラッグシップは60万円オーバー</span></h2>
 <a href="20251018_018.JPG" target="_blank"><img src="20251018_018.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251018_019.JPG" target="_blank"><img src="20251018_019.JPG" alt="サンプル画像" class="responsive-media"></a>
     
