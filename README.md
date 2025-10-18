@@ -335,7 +335,7 @@ p.note { display: none; }
 <a href="20251018_076.JPG" target="_blank"><img src="20251018_076.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">畑からの帰りは日本ではできない荷台からの撮影<br>クリックで動画再生します↓</span></h2>
-<a href="https://youtube.com/shorts/dmGCe5JrjCA?si=gDv_VYbHnpmk45N9" target="_blank"><img src="20251018_001.png" alt="サンプル画像" class="responsive-media"></a>
+<a href="https://youtube.com/shorts/dmGCe5JrjCA?si=gDv_VYbHnpmk45N9" target="_blank"><img src="20251017_001.png" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">メーサイの警察署のお人形が良い表情</span></h2>
 <a href="20251018_077.JPG" target="_blank"><img src="20251018_077.JPG" alt="サンプル画像" class="responsive-media"></a>
