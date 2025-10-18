@@ -317,7 +317,8 @@ p.note { display: none; }
 <a href="20251018_068.JPG" target="_blank"><img src="20251018_068.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251018_069.JPG" target="_blank"><img src="20251018_069.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251018_070.JPG" target="_blank"><img src="20251018_070.JPG" alt="サンプル画像" class="responsive-media"></a>
-    
+
+<h2><span class="yellow">刈り取り作業の迫力動画↓</span></h2>
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OJmQP1GwWy4?si=qYBo5qc9CNVjypDO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
