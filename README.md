@@ -180,7 +180,7 @@ p.note { display: none; }
 <h2><span class="yellow">ホールは子供たちの遊び場</span></h2>
 <a href="20251018_006.JPG" target="_blank"><img src="20251018_006.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">ワンちゃんのお着物</span></h2>
+<h2><span class="yellow">ワンちゃんの置き物</span></h2>
 <a href="20251018_007.JPG" target="_blank"><img src="20251018_007.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">定番のコーヒー屋さん</span></h2>
